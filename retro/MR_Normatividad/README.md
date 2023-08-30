@@ -1,4 +1,13 @@
-# Demo file for the folder with the draft version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Momento de Retroalimentación: Análisis del contexto y la normatividad.
 
-This folder contains a subfolder for each related module and the files that must be reviewed for each deliverable. Please refer to each subfolder for more details.
+Lo que era requerido para esta entrega es seleccionar uno de los proyectos que hayas desarrollado que involucre el uso de un set de datos reales, puede ser un proyecto del módulo 1: Estadística para la ciencia de datos o en el módulo 2: Aprendizaje máquina. No puede ser el del reto ya que este es un trabajo individual por ser una evidencia.
+
+Para ese proyecto y usando el dataset: 
+
+*    Investiga cual es la normativa asociada al tipo de datos que utilizaste.
+*    Explica porque medio utilizaste los datos y como te estas asegurando de no violar la normativa establecida. Respalda esto con los documentos oficiales en los que te estás basando y cítalos.
+*    Una vez analizado el dataset ahora hay que analizar la herramienta, explica cómo tu solución cumple con la normativa establecida en la misma industria y no incurre en ningún sesgo ético.
+*    Analiza bajo qué escenarios se podría incurrir en una falta ética si tu herramienta es mal usada, contempla casos como malicia o negligencia.
+*    Agrega ambos reportes o análisis a tu repositorio como un reporte o como un wiki. 
+
+Datos obtenidos de Canva - https://experiencia21.tec.mx/courses/406127/assignments/12741875
