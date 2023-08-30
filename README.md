@@ -1,11 +1,11 @@
-# Repositorio del curso TC3006 - Portafolio de iAnálisis
-Este repositorio recopila la implementación de técnicas de aprendizaje máquina según lo visto en el curso TC3006 del Tecnológico de Monterrey.
+# Repositorio del curso TC3006 - Portafolio de Análisis
+Este repositorio recopila la implementación de técnicas de análisis estadístico según lo visto en el curso TC3006 del Tecnológico de Monterrey.
 
 ## Alumno:
   * Frida Cano Falcón - A01752953
  
 ## Estructura del repositorio
-El root folderdel repositorio contiene los siguientes carpetas y archivos:
+El root folder del repositorio contiene los siguientes carpetas y archivos:
 
 * **Archivos**
   * README.md: Este archivo. 
@@ -16,9 +16,6 @@ El root folderdel repositorio contiene los siguientes carpetas y archivos:
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
 * *retro*
-	* *MN_MR1*
+	* *MR_Normatividad*
 		* README.md : Explicación del contenido de la carpeta.  
-		* ML_RegresionLineal.ipynb : Code for the cleancing of the dataset and some statistical analizys.  
-		* wine.data: base de datos de vinos.
-		* wine.names: metadata de la base de datos.
-  
+		* MR_ContextoNormatividad_FridaCanoFalcon_A01752953.pdf : Investigación sobre la normatividad del uso de datos utilizados en un proyecto realizado con anterioridad.  
