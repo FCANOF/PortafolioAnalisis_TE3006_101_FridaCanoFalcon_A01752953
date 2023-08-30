@@ -1,4 +1,7 @@
-# Demo file for the folder with the draft version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Carpeta con archivos de retroalimentación
 
-This folder contains a subfolder for each related module and the files that must be reviewed for each deliverable. Please refer to each subfolder for more details.
+## Momento de Retroalimentación: Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos
+
+## Momento de Retroalimentación: Análisis del contexto y la normatividad.
+Para esta retroalimentación existe la siguiente carpeta que desgloza el entregable:
+*   MR_Normatividad
