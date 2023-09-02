@@ -17,6 +17,7 @@ El root folder del repositorio contiene los siguientes carpetas y archivos:
 En seguida se presentan los archivos a revisar: 
 * *retro*
 	* *MR_MS_Analisis*
-		* README.md : Explicación del contenido de la carpeta.  
-		* MR_ContextoNormatividad_FridaCanoFalcon_A01752953.pdf : Investigación sobre la normatividad del uso de datos utilizados en un proyecto realizado con anterioridad.  
-		* ReporteFinal_AnalisisBiologiaComputacional_A01752953.pdf : Ejemplo el proyecto realizado en mi tercer semestre de carrera en la materia Análisis de biología computacional
+		* README.md : Explicación del contenido .
+		* MR_MS_ConstruccionModeloEstadistico.ipynb : Implementacion del analisis de la base de datos
+		* precios_autos.csv : base de datos con los datos.
+                * precios_autos.xsml: mega data de la base de datos. 
