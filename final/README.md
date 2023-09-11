@@ -21,3 +21,4 @@ En esta carpeta se incluyen las evidencias finales de los dos módulos: Estadís
       * _**Act3_Transformaciones.ipynb**_
 
 * **M2_ML**
+    * **Analisis_Reporte.pdf**
