@@ -1,4 +1,5 @@
-# Repositorio del curso TC3006 - Portafolio de Análisis
+# Portafolio de Análisis
+**Repositorio del curso TC3006**
 Este repositorio recopila la implementación de técnicas de análisis estadístico según lo visto en el curso TC3006 del Tecnológico de Monterrey.
 
 ## Alumno:
