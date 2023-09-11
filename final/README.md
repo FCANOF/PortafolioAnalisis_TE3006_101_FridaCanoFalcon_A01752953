@@ -19,3 +19,5 @@ En esta carpeta se incluyen las evidencias finales de los dos módulos: Estadís
       * _**Act1_Distribuciones.ipynb**_
       * _**Act2_ExplorandoBases.ipynb**_
       * _**Act3_Transformaciones.ipynb**_
+
+* **M2_ML**
