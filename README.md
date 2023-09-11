@@ -15,9 +15,20 @@ El root folder del repositorio contiene los siguientes carpetas y archivos:
 
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
-* *retro*
-	* *MR_MS_Analisis*
-		* README.md : Explicación del contenido .
-		* MR_MS_ConstruccionModeloEstadistico.ipynb : Implementacion del analisis de la base de datos
-		* precios_autos.csv : base de datos con los datos.
-                * precios_autos.xsml: mega data de la base de datos. 
+* *final*
+	* README.md: Explicación de los entregables.
+   
+	* *M1_Estadistica*
+		* Actividades: Actividades realizadas en el modulo
+   			* Act1_Distribuciones
+			* Act2_ExplorandoBases
+			* Act3_Transformaciones
+
+   		* Precio de Autos: Reto de modulo de estadística
+			* README.md : Explicación del contenido.
+   			* ProcesamientoDeDatos.ipynb : Procesamiento de datos en python.
+   			* AnalisisEstadistico.pdf : Reporte final
+   			* precios_autos.csv : base de datos con los datos.
+			* precios_autos.xsml: mega data de la base de datos.
+
+	* *M2_ML*
